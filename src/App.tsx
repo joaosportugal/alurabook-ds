@@ -1,5 +1,11 @@
+import { AbBotao } from './components/AbBotao'
+
 function App() {
-  return <h1>Olá Mundo</h1>
+  return (
+    <div>
+      <AbBotao />
+    </div>
+  )
 }
 
 export default App
